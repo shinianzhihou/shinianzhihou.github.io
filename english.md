@@ -1,13 +1,13 @@
 # Chinadaily Excerpts
-<!-- MarkdownTOC autolink="true" levels="1,2,3"-->
+<!-- MarkdownTOC autolink="true" -->
 
-- [Part1 Opinion Line](#part1-opinion-line)
+- [Opinion Line](#opinion-line)
     - [In 5G market, China puts money where its mouth is](#in-5g-market-china-puts-money-where-its-mouth-is)
-- [Part2 Forum Trend](#part2-forum-trend)
+- [Forum Trend](#forum-trend)
 
 <!-- /MarkdownTOC -->
 
-## [Part1 Opinion Line](http://www.chinadaily.com.cn/opinion/opinionline)  
+## [Opinion Line](http://www.chinadaily.com.cn/opinion/opinionline)  
 ### [In 5G market, China puts money where its mouth is](http://www.chinadaily.com.cn/a/201906/19/WS5d0982aea3103dbf14328fed.html)  
 <font face="sans-serif" size=3>
 **Date:2019/6/19**  
@@ -26,7 +26,6 @@ And this will be win-win cooperation coming along with the advancement of techno
 In stark contrast, the United States has left no stones unturned in its bid to split the world on the research, development and application of a technology that aims to connect the world.
 </font>
 
-### 
-## [Part2 Forum Trend](http://www.chinadaily.com.cn/opinion/forumtrends)  
+## [Forum Trend](http://www.chinadaily.com.cn/opinion/forumtrends)  
 
 
